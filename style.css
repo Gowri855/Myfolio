@@ -224,5 +224,25 @@ animation:cursor 0.6 infinite,typing 20s steps(14) infinite;
  }
 }
 @keyframes typing{
-  
+  10%,
+  15%,
+  30%,
+  35%,
+  50%,
+  55%,
+  70%,
+  90%,
+  95%{
+    width:0;
+  }
+  5%,
+  20%,
+  25%,
+  40%,
+  45%,
+  60%,
+  80%,
+  85%{
+    width:calc(100%+8px);
+  }
 }
