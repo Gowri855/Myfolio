@@ -243,16 +243,16 @@ span {
     content: "Full-Stack Developer";
   }
   21%, 40% {
-    content: "Web Designer";
+    content: "";
   }
   41%, 60% {
-    content: "Hello";
+    content: "";
   }
   61%, 80% {
-    content: "Haiii";
+    content: "";
   }
   81%, 100% {
-    content: "Oiiii";
+    content: "";
   }
 }
 
