@@ -98,7 +98,6 @@ section {
   justify-content: center;
   margin-top: 3rem;
 }
-
 span {
   color: var(--main-color);
 }
@@ -279,6 +278,7 @@ span {
 
 .education h2 {
   margin-bottom: 5rem;
+  
 }
 
 .timeline-items {
@@ -339,6 +339,7 @@ span {
   background-color: var(--bg-color);
   border: 3px solid var(--main-color);
   cursor: pointer;
+  padding:15px;
   transition: 0.3s ease-in-out;
 }
 
