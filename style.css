@@ -206,7 +206,7 @@ span {
 }
 
 .text-animation {
-  font-size: 34px;
+  font-size: 32px;
   font-weight: 600;
   min-width: 280px;
 }
@@ -234,7 +234,7 @@ span {
 
 @keyframes cursor {
   to {
-    border-left: 2px solid var(--main-color);
+    border-left: 1px solid var(--main-color);
   }
 }
 
@@ -243,16 +243,16 @@ span {
     content: "Full-Stack Developer";
   }
   21%, 40% {
-    content: "";
+    content: "Enthusiastic Learner";
   }
   41%, 60% {
-    content: "";
+    content: "Aspiring Developer";
   }
   61%, 80% {
-    content: "";
+    content: "Creative Thinker";
   }
   81%, 100% {
-    content: "";
+    content: "Web Developer";
   }
 }
 
@@ -628,3 +628,4 @@ font-size:2.8rem;
   grid-template-columns: repeat(1,1fr);
 }
 }
+
